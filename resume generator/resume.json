@@ -1,0 +1,21 @@
+{
+  "name": "Fuseini Zaahid",
+  "education": "Freshman at Vassar College, Computer Science Major",
+  "skills": ["Python", "Data Analysis", "Web Development"],
+  "projects": [
+    {
+      "title": "To-Do List App",
+      "description": "A task management tool with file storage for persistence."
+    },
+    {
+      "title": "Resume Website Generator",
+      "description": "Python script that creates a personal resume website from JSON data."
+    }
+  ],
+  "experience": [
+    {
+      "role": "College Store Assistant",
+      "details": "Helped organize inventory, assist students with purchases, and manage stock records."
+    }
+  ]
+}
